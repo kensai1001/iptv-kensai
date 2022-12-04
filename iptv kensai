@@ -5,3 +5,5 @@ https://www.tonton.com.my/live/tv3
 https://www.tonton.com.my/live/tv9
 #EXTINF:-1,TV2
 https://rtmklik.rtm.gov.my/tv/2
+#EXTINF:-1,ikim
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
